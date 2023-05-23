@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project involves analyzing factors that drive home prices in order to inform investment decisions in mortgage-backed securities. It involved examining and cleaning historical housing sales data from 2006-2010 using Excel. Research questions were defined and hypotheses were developed. Statistical tests, such as t-tests, were conducted to test hypotheses related to the impact of certain variables on home prices. The findings were presented to stakeholders that would indicate where they should allocate funds in mortgage backed securities.
+The project focused on analyzing the determinants of home prices to guide investment decisions in mortgage-backed securities. Historical housing sales data from 2006 to 2010 was thoroughly examined and cleaned using Excel. Research questions were formulated, and corresponding hypotheses were developed. Statistical tests, including t-tests, were performed to assess the relationships between specific variables and home prices. The resulting findings were presented to stakeholders, providing valuable insights on optimal allocation of funds in mortgage-backed securities.
 
 
 <h2>Tools Used</h2>
